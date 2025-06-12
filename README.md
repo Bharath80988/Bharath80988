@@ -33,7 +33,7 @@
 
 ###
 
-<p align="left">👋 Hi there! I'm Bharath from Vellore<br><br>🔭 I’m currently working in MERN stack development, building responsive and efficient web applications<br><br>📚 I'm currently learning Full Stack Development with a focus on Machine Learning integration<br><br>⚡ In my free time, I love doing mini projects, exploring Operating Systems, and understanding the internal workings of open-source software and hardware<br><br>🌱 I enjoy diving deep into how things work under the hood and constantly sharpening my development skills<br><br>💡 I'm passionate about tech that solves real-world problems, and I enjoy experimenting with new tools and frameworks<br><br>🤝 I’m always open to exploring exciting project opportunities and collaborations<br><br>🌐 Check out my portfolio: https://portfolio-phi-nine-78.vercel.app/</p>
+<p align="left">👋 Hi there! I'm Bharath from Vellore<br><br>🔭 I’m currently working in MERN stack development, building responsive and efficient web applications<br><br>📚 I'm currently learning Full Stack Development with a focus on Machine Learning integration<br><br>⚡ In my free time, I love doing mini projects, exploring Operating Systems, and understanding the internal workings of open-source software and hardware<br><br>🌱 I enjoy diving deep into how things work under the hood and constantly sharpening my development skills<br><br>💡 I'm passionate about tech that solves real-world problems, and I enjoy experimenting with new tools and frameworks<br><br>🤝 I’m always open to exploring exciting project opportunities and collaborations<br><br>🌐 Check out my portfolio: https://3-d-portfolio-git-main-bharath-ds-projects.vercel.app/</p>
 
 ###
 
